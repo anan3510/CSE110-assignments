@@ -1,4 +1,4 @@
-//task1
+//task4
 import java.util.Scanner;
 public class lab9_task4{
     public static void main(String[] args){
